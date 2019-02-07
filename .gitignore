@@ -1,1 +1,4 @@
 *.tmp
+!special.tmp
+log_*
+!log_01
